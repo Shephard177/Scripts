@@ -1,4 +1,6 @@
 #!/bin/bash
+# Main automation script
+# By Shephard 10/07/2021
 
 #### Make a backup of the .bashrc file
 cp ~/.bashrc ~/.bashrc.bak
