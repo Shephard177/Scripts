@@ -1,3 +1,4 @@
+#!/bin/bash
 # Main automation script
 # By Shephard 10/07/2021
 
