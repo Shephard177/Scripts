@@ -1,2 +1,2 @@
-# Pen-testing-Tools
-This is an automation script that will download all the pen-testing tools I commonly use.
+# Prompt-config
+This is an automation script that will configure the terminal to display the date,time and username.
